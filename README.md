@@ -54,7 +54,7 @@ Partial Failure = CALCULATE(COUNT('Space Missions'[Mission]), 'Space Missions'[M
 ---
 
 ### SPACE MISSION ANALYSIS Dashboard
-
+[Check it out here](https://github.com/SaiPravallitha/Space-missions-dashboard/blob/main/Space%20missions%20dashboard%20Power%20BI.pbix)
 
 ---
 
